@@ -1,0 +1,10 @@
+.po-est__vid {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    min-width: 100%; 
+    min-height: 100%;
+    transform: rotateY(180deg);
+    -webkit-transform:rotateY(180deg); 
+    -moz-transform:rotateY(180deg); 
+}
